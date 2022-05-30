@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yusuf/okul/ml-ops-bootcamp/ml-ops-codes/module2/mlruns/0/f458b3791dbd4d1fac8e77318e8b67ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f458b3791dbd4d1fac8e77318e8b67ac
+run_uuid: f458b3791dbd4d1fac8e77318e8b67ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653861430733
+status: 1
+tags: []
+user_id: yusuf

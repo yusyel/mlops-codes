@@ -1,0 +1,4 @@
+artifact_location: file:///home/yusuf/okul/ml-ops-bootcamp/ml-ops-codes/module2/mlruns/0
+experiment_id: '0'
+lifecycle_stage: active
+name: module2
