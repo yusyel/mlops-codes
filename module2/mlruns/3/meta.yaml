@@ -1,0 +1,4 @@
+artifact_location: file:///home/yusuf/okul/ml-ops-bootcamp/ml-ops-codes/module2/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: random-forest-best-models
