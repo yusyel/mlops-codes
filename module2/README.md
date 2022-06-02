@@ -2,4 +2,4 @@
 
 ## module2
 
-![img](img/img.png)
+![img](../img/img.png)
