@@ -32,6 +32,7 @@ def run(data_path, num_trials):
             y_pred = rf.predict(X_valid)
             rmse = mean_squared_error(y_valid, y_pred, squared=False)
             mlflow.log_metric("rmse", rmse)
+            mlflow.log_params(params)
             mlflow.sklearn.log_model(rf, artifact_path="module2/artifacts")
             return {'loss': rmse, 'status': STATUS_OK}
 
